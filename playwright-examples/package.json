@@ -1,0 +1,12 @@
+{
+    "scripts": {
+      "test:e2e": "playwright test",
+      "test:e2e:headed": "playwright test --headed"
+    },
+    "devDependencies": {
+      "@playwright/test": "^1.48.2",
+      "typescript": "^5.5.4",
+      "@types/node": "^20.14.10"
+    }
+  }
+  
